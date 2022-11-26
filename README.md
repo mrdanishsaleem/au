@@ -4,15 +4,15 @@
 
 ### The Basics
 
-[ ]: JS Fundamentals Introduction
-[ ]: JavaScript Basics
-[ ]: Practice Problems 1
-[ ]: Data Storage
-[ ]: Practice Problems 2
-[ ]: Intermediate JavaScript Features
-[ ]: Practice Problems 3
-[ ]: Classess & Prototypes
-[ ]: Binary & Hexadecimal
+- [x] JS Fundamentals Introduction
+- [] JavaScript Basics
+- [] Practice Problems 1
+- [] Data Storage
+- [] Practice Problems 2
+- [] Intermediate JavaScript Features
+- [] Practice Problems 3
+- [] Classess & Prototypes
+- [] Binary & Hexadecimal
 
 ### Data Structures
 
