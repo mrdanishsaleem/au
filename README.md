@@ -16,68 +16,68 @@
 
 ### Data Structures
 
-[ ]: Array Manipulation
-[ ]: Building Data Structures
-[ ]: Practice Problems
+- [] Array Manipulation
+- [] Building Data Structures
+- [] Practice Problems
 
 ### Networks
 
-[ ]: Local Development
-[ ]: Aysnchronous JavaScript
-[ ]: Building a Server
+- [] Local Development
+- [] Aysnchronous JavaScript
+- [] Building a Server
 
 ## Ethereum Devloper Bootcamp
 
 ### Blockchain Cryptography
 
-[ ]: Bootcamp Introduction
-[ ]: The First Primitive
-[ ]: Digital Signatures
-[ ]: Proof of Work
-[ ]: Blockchain Network
-[ ]: Week 1 Project
+- [] Bootcamp Introduction
+- [] The First Primitive
+- [] Digital Signatures
+- [] Proof of Work
+- [] Blockchain Network
+- [] Week 1 Project
 
 ### Blockchain Storage
 
-[ ]: Understanding UTXOs
-[ ]: Trees
-[ ]: Ethereum Data Storage
-[ ]: Blockchain Project
+- [] Understanding UTXOs
+- [] Trees
+- [] Ethereum Data Storage
+- [] Blockchain Project
 
 ### Ethereum
 
-[ ]: Ethereum Features
-[ ]: Communicating with Clients
-[ ]: Transactions
-[ ]: Front-End
-[ ]: Further Research
+- [] Ethereum Features
+- [] Communicating with Clients
+- [] Transactions
+- [] Front-End
+- [] Further Research
 
 ### Smart Contract Basics
 
-[ ]: Solidity Syntax
-[ ]: Functions
-[ ]: Transactions
-[ ]: Message Call
-[ ]: Delegatecall
+- [] Solidity Syntax
+- [] Functions
+- [] Transactions
+- [] Message Call
+- [] Delegatecall
 
 ### Solidity
 
-[ ]: Events
-[ ]: Mapping
+- [] Events
+- [] Mapping
 
-[ ]: Escrow Decentralized Application
-[ ]: Reference Types
+- [] Escrow Decentralized Application
+- [] Reference Types
 
 ### Solidity Core
 
-[ ]: Calldata
-[ ]: Inheritance
-[ ]: ERC20
+- [] Calldata
+- [] Inheritance
+- [] ERC20
 
-[ ]: IPFS & ERC721
+- [] IPFS & ERC721
 
 ### Solidity Next Level
 
-[ ]: Solidity Challenges
-[ ]: Voting
-[ ]: Multisig
+- [] Solidity Challenges
+- [] Voting
+- [] Multisig
