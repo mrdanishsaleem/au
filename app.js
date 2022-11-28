@@ -1,5 +1,11 @@
-function getFloor(x) {
-  const y = Math.floor(x);
-
-  return y;
+function canAccess(purchasedSubscription, freeTrial) {
+  if (purchasedSubscription) {
+    return true;
+  } else if (freeTrial) {
+    return true;
+  } else {
+    return false;
+  }
 }
+
+module.exports = canAccess;
