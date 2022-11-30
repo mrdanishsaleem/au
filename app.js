@@ -1,11 +1,10 @@
-function canAccess(purchasedSubscription, freeTrial) {
-  if (purchasedSubscription) {
-    return true;
-  } else if (freeTrial) {
-    return true;
-  } else {
-    return false;
+function scream(n) {
+  let str = "";
+
+  for (let i = 1; i <= 5; i++) {
+    str += "a";
   }
+  console.log(str);
 }
 
-module.exports = canAccess;
+module.exports = scream;
